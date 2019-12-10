@@ -1,0 +1,38 @@
+h1{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 100px;
+}
+h2{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 40px;
+}
+
+#image2{
+  position: relative;
+
+}
+#image3{
+  position: absolute;
+  left: 40%;
+  top: 30%;
+  width: 20px;
+  height: 20px;
+}
+#image4{
+  position: absolute;
+  top: 100%;
+}
+#image5{
+  position: absolute;
+  top: 120%;
+  left: 45%;
+}
+#image6{
+  position: absolute;
+  top: 180%;
+}
+#image7{
+  position: absolute;
+  top: 185%;
+  left: 45%;
+}
